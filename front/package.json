@@ -13,7 +13,7 @@
     "@mdi/font": "^5.3.45",
     "@terwanerik/scrolltrigger": "^1.0.4",
     "aos": "^2.3.4",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "bootstrap": "^4.5.0",
     "core-js": "^3.6.5",
     "dotenv": "^8.2.0",
